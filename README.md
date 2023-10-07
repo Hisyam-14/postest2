@@ -62,3 +62,4 @@ Jika role user = 0 maka akan diarahkan ke menu user
 
   ![image](https://github.com/Hisyam-14/postest2/assets/109202315/ee221780-8550-499f-8bf9-65752557dc9b)
 
+  Jika user tidak memilih 2 diantaranya maka user akan diarhkan untuk memilih "Masuk transaksi" atau "Keluar"
