@@ -46,7 +46,7 @@ Jika role user = 0 maka akan diarahkan ke menu user
 
       Jika angka <= stock pada table barang maka user, harus menginput 0 untuk menghentikan transaski
 
-      ![image](https://github.com/Hisyam-14/postest2/assets/109202315/e95499fc-f9ed-49d5-a321-54993d82c9e9)
+  ![image](https://github.com/Hisyam-14/postest2/assets/109202315/e95499fc-f9ed-49d5-a321-54993d82c9e9)
 
       Jika user tidak menginput 0 maka user akan diarahkan untuk menginput kode lagi
 
@@ -54,7 +54,7 @@ Jika role user = 0 maka akan diarahkan ke menu user
 
       Ouputnya total harga dari kuota yang dipilih
 
-      ![image](https://github.com/Hisyam-14/postest2/assets/109202315/bc2d8f2e-c8bf-4eb6-8bd3-7e40f962ac4c)
+  ![image](https://github.com/Hisyam-14/postest2/assets/109202315/bc2d8f2e-c8bf-4eb6-8bd3-7e40f962ac4c)
 
   Jika user memilih "keluar"
 
